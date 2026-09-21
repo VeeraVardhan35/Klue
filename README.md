@@ -1,5 +1,4 @@
 # AI-Powered Summarization Service
-Author: May Cooper
 
 FastAPI service that performs deterministic abstractive summarization using a Hugging Face model, with an optional compressed-summary endpoint.
 
